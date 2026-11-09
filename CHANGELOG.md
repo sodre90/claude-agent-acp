@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.102.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.101.1...v0.102.0) (2026-11-09)
+
+
+### Features
+
+* list workflow phases and agents on the workflow card ([#1552](https://github.com/agentclientprotocol/claude-agent-acp/issues/1552)) ([176ae06](https://github.com/agentclientprotocol/claude-agent-acp/commit/176ae0634c2ef7cb0549339f4b9824884574b2f0))
+* send the checklist as a plan operation and remove plans on reset ([#1554](https://github.com/agentclientprotocol/claude-agent-acp/issues/1554)) ([766fd14](https://github.com/agentclientprotocol/claude-agent-acp/commit/766fd142f60bda2f434d55baaa8e72939f215800))
+
 ## [0.101.1](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.101.0...v0.101.1) (2026-11-09)
 
 
